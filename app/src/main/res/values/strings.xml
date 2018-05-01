@@ -22,5 +22,15 @@
     <string name="calendar">Calendar</string>
     <string name="info">Info</string>
     <string name="title_activity_home_screen">Home Screen</string>
+    <string name="title_activity_maps_screen">Map</string>
+
+    <string name="event_1_text"><font size="20">RapCaviarLive ft Migos...</font>\n\<font size="12">CMCU Amphitheatre - May 01</font></string>
+    <string name="event_2_text"><font size="20">Charlotte Knights vs. ...</font>\n\<font size="12">BB&amp;T Ballpark - May 01</font></string>
+    <string name="event_3_text"><font size="20">10 Years</font>\n\<font size="12">The Underground - May 01</font></string>
+    <string name="event_4_text"><font size="20">Charlotte Knights vs. ...</font>\n\<font size="12">BB&amp;T Ballpark - May 01</font></string>
+    <string name="event_5_text"><font size="20">Billy Loves Bobby Sue</font>\n\<font size="12">NarroWay Theatre - May 02</font></string>
+    <string name="event_6_text"><font size="20">Charlotte Hounds vs. ...</font>\n\<font size="12">American Legion Memorial Stadium - May 03</font></string>
+
+    <color name="white">#FFFFFF</color>
 
 </resources>

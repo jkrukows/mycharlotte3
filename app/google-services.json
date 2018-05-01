@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "594277666818",
+    "firebase_url": "https://charlotteeventorganizer.firebaseio.com",
+    "project_id": "charlotteeventorganizer",
+    "storage_bucket": "charlotteeventorganizer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594277666818:android:9a84e9befd462d81",
+        "android_client_info": {
+          "package_name": "com.example.ca.mycharlotte3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594277666818-en7f61m4fbblmf9f6on394k1f7o5h424.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ca.mycharlotte3",
+            "certificate_hash": "383d8271b230e27637a6e9bff66fcf83da2162a7"
+          }
+        },
+        {
+          "client_id": "594277666818-aguh8mfd2ckhsukla3ed7ftnm466c0e3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxWdVZ279AuMESEox-bySQVyZv668Srm8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594277666818-aguh8mfd2ckhsukla3ed7ftnm466c0e3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

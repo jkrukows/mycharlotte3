@@ -4,25 +4,21 @@ import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+import android.view.LayoutInflater;
+import android.view.ViewGroup;
 
-public class HomeScreen extends AppCompatActivity {
+public class EventsScreen extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_home_screen);
+        setContentView(R.layout.activity_events_screen);
     }
 
-    public void send_EventsScreen (View view){
+    public void send_EventScreen (View view){
 
         Intent EventsScreen = new Intent(this,EventsScreen.class);
         startActivity(EventsScreen);
-    }
-
-    public void send_InfoScreen (View view){
-
-        Intent InfoScreen = new Intent(this,InfoScreen.class);
-        startActivity(InfoScreen);
     }
 
 }
